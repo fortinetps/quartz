@@ -1,5 +1,5 @@
 ---
-title: 🪴 Welcome to FortinetPS
+title: "Welcome to FortinetPS"
 enableToc: false
 ---
 
