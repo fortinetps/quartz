@@ -13,5 +13,5 @@ enableToc: false
 [2022](daily/2022/_index.md)
 [2023](daily/2023/_index.md)
 
-[test](notes/test.md)
-[new test note](notes/_index.md)
+- [test](notes/test.md)
+- [new test note](notes/another.md)
