@@ -1,0 +1,1 @@
+My 2022 daily notes
