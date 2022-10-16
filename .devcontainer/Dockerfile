@@ -6,7 +6,7 @@
 FROM golang:alpine3.16
 USER root
 RUN apk update
-RUN apk add --no-cache openssh screen git curl nfs-utils hugo
+RUN apk add --no-cache openssh screen git make curl nfs-utils hugo
 RUN go install github.com/jackyzha0/hugo-obsidian@latest
 
 RUN /usr/bin/ssh-keygen -A
