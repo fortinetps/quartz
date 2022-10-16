@@ -14,3 +14,4 @@ enableToc: false
 [2023](daily/2023/_index.md)
 
 [test](notes/test.md)
+[new test note](notes/_index.md)
