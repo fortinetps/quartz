@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: FortinetPS
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -15,9 +15,9 @@ GitHubLink: https://github.com/fortinetps/quartz/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "-BsycQaOEbIcZwH_ZDi1A"
 description:
-  Welcome to FortinetPS Digital Garden 
+  Share knowledge, share happiness, welcome to FortinetPS. 
 page_title:
-  "🪴 FortinetPS"
+  "Share knowledge, share happiness, welcome to FortinetPS."
 links:
   - link_name: Github
     link: https://github.com/fortinetps
