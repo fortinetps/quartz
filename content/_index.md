@@ -1,8 +1,3 @@
----
-title: "Share knowledge, share happiness, welcome to FortinetPS."
-enableToc: false
----
-
 ## [Life](life/life.md)
 
 ## [Work](work/work.md)
