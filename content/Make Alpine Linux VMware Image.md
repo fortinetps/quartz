@@ -1,4 +1,11 @@
-#vmware #alpine
+---
+title: "Make Alpine Linux VMware Image"
+description: "Programming unit introduction"
+tags:
+- vmware
+- alpine
+---
+
 ## Make Alpine Linux VMware Image
 - Step 1: download [Make Alpine Linux VM Image](https://github.com/alpinelinux/alpine-make-vm-image)
 	- If you want to run this script in a docker container, please check this [workaround](https://github.com/alpinelinux/alpine-make-vm-image/issues/15)
