@@ -1,9 +1,8 @@
-## [Life](life/life.md)
+---
+cssclass: dashboard
+---
 
-## [Work](work/work.md)
-- [Fortinet](work/fortinet/fortinet.md)
-- [Terraform](work/terraform/terraform.md)
-
-## [Daily](daily/daily.md)
-- [2022](daily/2022/2022.md)
-- [2023](daily/2023/2023.md)
+```dataview  
+LIST  
+FROM "daily"  
+```
