@@ -1,5 +1,3 @@
----
-cssclass: dashboard
----
 
-### 💻[VMware](/tags/vmware)
+### [VMware](/tags/vmware)
+### [FortiGate](/tags/fortigate)

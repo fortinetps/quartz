@@ -1,1 +1,0 @@
-[[Make Alpine Linux VMware Image]]
