@@ -1,4 +1,4 @@
 
 ### [VMware](/tags/vmware)
-### [FortiGate](/tags/fortinet)
+### [FortiGate](/tags/fgt)
 ### [Cloud](/tags/cloud)

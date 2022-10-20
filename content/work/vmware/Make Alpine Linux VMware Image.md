@@ -24,23 +24,23 @@ root@home# ls *.qcow2 *.vmdk -al
 	- For SCSI controller, please choose "LSI Logic SAS"
 	- For VM Options, change Boot Options from EFI to BIOS
 
-![[Pasted image 20221019225149.png]]
+![[work/vmware/images/Pasted image 20221019225149.png]]
 
-![[Pasted image 20221019225226.png]]
+![[work/vmware/images/Pasted image 20221019225226.png]]
 
 	- Go to the datastore, find the VM folder, and upload files
 
-![[Pasted image 20221019225255.png]]
+![[work/vmware/images/Pasted image 20221019225255.png]]
 
 	- Edit VM settings, "ADD NEW DEVICE" -> "Existing Hard Disk" -> browse to the folder and choose the vmdk file you uploaded in previous step
 
-![[Pasted image 20221019225323.png]]
+![[work/vmware/images/Pasted image 20221019225323.png]]
 
-![[Pasted image 20221019225337.png]]
+![[work/vmware/images/Pasted image 20221019225337.png]]
 
 	- Power on VM, login with root (no password), run "ifup eth0", if you have a DHCP server in the network VM is connected to, VM will get an IP address
 
-![[Pasted image 20221019225346.png]]
+![[work/vmware/images/Pasted image 20221019225346.png]]
 
 - Step 5: optimization and others
 	- For [open-vm-tools](https://wiki.alpinelinux.org/wiki/Open-vm-tools)
