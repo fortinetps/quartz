@@ -5,3 +5,5 @@ tags:
 - vmware
 - fortigate
 ---
+
+this is a note regarding fortigate on vmware
